@@ -1,2 +1,3 @@
 blueocean:latest
 greenballs:latest
+chucknorris:latest
