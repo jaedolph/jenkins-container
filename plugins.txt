@@ -1,3 +1,4 @@
 blueocean:latest
 greenballs:latest
 chucknorris:latest
+rpmsign-plugin:latest
